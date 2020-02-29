@@ -1,0 +1,48 @@
+li{
+    display: inline-block;
+    margin-bottom: 10px;
+    
+    padding: 25px;
+}
+#first{
+    float:left;
+}
+#img3{
+    margin: 5px;
+   
+}
+.img{
+   float: left;
+   padding: 30px;
+   
+}
+#width{
+    width: 100%;
+}
+h1{
+    font-size: x-large;
+    font-weight: bold;
+}
+.par{
+ float: left;
+}
+h3{
+    float: left;
+    
+}
+h6{
+    display: block;
+}
+#p1{
+    font-size: medium;
+    font-weight: bold;
+}
+#butt{
+    width: 178px;
+    height: 43px;
+    border-radius: 17px;
+}
+#lastimg{
+    width: 100%;
+    height: 200px;
+}
