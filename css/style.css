@@ -6,6 +6,9 @@ li{
 }
 #first{
     float:left;
+    margin-left: 400px;
+    /* margin-right: px; */
+
 }
 #img3{
     margin: 5px;
@@ -25,6 +28,8 @@ h1{
 }
 .par{
  float: left;
+ margin-left: 50px;
+ margin-right: 50px;
 }
 h3{
     float: left;
@@ -45,4 +50,9 @@ h6{
 #lastimg{
     width: 100%;
     height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    text-align: center;
 }
